@@ -47,7 +47,7 @@ class PCA_GHALBAN:
                 break
 
     # Z = X_centered * W (top eigenvectors)
-    def transfrom(self, X):
+    def transform(self, X):
         X_normalized = X - self.mean
         return np.dot(X_normalized, self.components) 
     
