@@ -1,5 +1,4 @@
 import numpy as np
-from collections import Counter
 
 class KMeans:
     """
@@ -12,51 +11,28 @@ class KMeans:
         - Update the centroids based on the assigned clusters.
         - Repeat the assignment and update steps until convergence.
     """
-    def __init__(self):
+    def __init__(self, n_clusters, random_state=42):
         self.centroids = []
         self.labels = []
+        self.n_clusters = n_clusters
+        np.random.seed(random_state)
     
-    def fit(self, data, n_clusters, true_labels):
+    def fit(self, data):
         prev_centroids = np.array([])
-        self.centroids = self._initialize_centroids(data, n_clusters)
+        self.centroids = self._initialize_centroids(data)
 
         while not np.array_equal(prev_centroids, self.centroids):
             cluster_indices = self._assign_clusters(data, self.centroids)
             prev_centroids = self.centroids.copy()
-            self.centroids = self._update_centroids(data, cluster_indices, n_clusters)
-
-        # Map cluster index to majority label
-        self.cluster_label_map = {}
-        
-        for cluster in np.unique(cluster_indices):
-            labels = true_labels[cluster_indices == cluster]
-
-            if len(labels) > 0:
-                majority_label = Counter(labels).most_common(1)[0][0]
-                self.cluster_label_map[cluster] = majority_label
-            else:
-                self.cluster_label_map[cluster] = -1  # fallback
-    
+            self.centroids = self._update_centroids(data, cluster_indices)
+            
     def predict(self, data):
         cluster_indices = self._assign_clusters(data, self.centroids)
-        # print(np.unique(cluster_indices))
-        # print(self.cluster_label_map)
-        predicted_labels = np.array([self.cluster_label_map[c] for c in cluster_indices])
-        
-        return predicted_labels
-
+        return cluster_indices
     
-    def get_accuracy(self, y_predicted, true_labels):
-        # Calculate accuracy
-        correct_predictions = np.sum(y_predicted == true_labels)
-        total_predictions = len(true_labels)
-        accuracy = correct_predictions / total_predictions if total_predictions > 0 else 0
+    def _initialize_centroids(self, data):
 
-        return accuracy
-
-    def _initialize_centroids(self, data, n_clusters):
-
-        indices = np.random.choice(len(data), size=n_clusters, replace=False)
+        indices = np.random.choice(len(data), size=self.n_clusters, replace=False)
         centroids = data[indices]
         return centroids
     
@@ -85,9 +61,9 @@ class KMeans:
     #             new_centroids.append(np.zeros(data.shape[1]))
     #     return np.array(new_centroids)
     
-    def _update_centroids(self, data, labels, n_clusters):
+    def _update_centroids(self, data, labels):
         new_centroids = []
-        for i in range(n_clusters):
+        for i in range(self.n_clusters):
             cluster_data = data[labels == i]
             if len(cluster_data) > 0:
                 new_centroid = np.mean(cluster_data, axis=0)
