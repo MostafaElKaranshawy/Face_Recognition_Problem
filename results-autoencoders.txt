@@ -1,0 +1,237 @@
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=10
+Average loss: 14970.038462
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=30
+Average loss: 15007.032527
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=50
+Average loss: 14965.442758
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=60
+Average loss: 15046.521860
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=70
+Average loss: 14934.805138
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=10
+Average loss: 15070.827706
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=30
+Average loss: 14931.249721
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=50
+Average loss: 14907.902204
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=60
+Average loss: 14995.130022
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=70
+Average loss: 15080.964146
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=10
+Average loss: 15041.964844
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=30
+Average loss: 14552.246826
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=50
+Average loss: 15028.385254
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=60
+Average loss: 14551.719727
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=70
+Average loss: 15127.324219
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=10
+Average loss: 15069.352990
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=30
+Average loss: 14927.807767
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=50
+Average loss: 15027.611178
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=60
+Average loss: 15015.773362
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=70
+Average loss: 14997.126202
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=10
+Average loss: 14988.080218
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=30
+Average loss: 14882.353097
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=50
+Average loss: 14803.207310
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=60
+Average loss: 14958.379464
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=70
+Average loss: 15065.152762
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=10
+Average loss: 15176.388672
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=30
+Average loss: 15094.416016
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=50
+Average loss: 15153.493652
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=60
+Average loss: 15167.372314
+Training with hidden_dim=256, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=70
+Average loss: 15433.197754
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=10
+Average loss: 14958.158203
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=30
+Average loss: 15057.418570
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=50
+Average loss: 14972.773738
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=60
+Average loss: 14935.739784
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=70
+Average loss: 14931.919546
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=10
+Average loss: 14665.316267
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=30
+Average loss: 14962.024972
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=50
+Average loss: 14974.845424
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=60
+Average loss: 14999.090541
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=70
+Average loss: 14827.046038
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=10
+Average loss: 14983.414795
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=30
+Average loss: 15004.902588
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=50
+Average loss: 14653.911377
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=60
+Average loss: 14842.311523
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=70
+Average loss: 15037.558838
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=10
+Average loss: 14997.320763
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=30
+Average loss: 14984.734901
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=50
+Average loss: 14936.060096
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=60
+Average loss: 15036.974684
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=70
+Average loss: 14968.467548
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=10
+Average loss: 14976.357561
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=30
+Average loss: 15144.913504
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=50
+Average loss: 14985.799526
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=60
+Average loss: 14804.106585
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=70
+Average loss: 14859.617327
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=10
+Average loss: 15219.098877
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=30
+Average loss: 14737.584229
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=50
+Average loss: 15311.557617
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=60
+Average loss: 14778.027100
+Training with hidden_dim=256, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=70
+Average loss: 14739.597656
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=10
+Average loss: 14989.586989
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=30
+Average loss: 14956.697566
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=50
+Average loss: 14939.309120
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=60
+Average loss: 14965.458459
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=16, epochs=70
+Average loss: 14984.787560
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=10
+Average loss: 15061.089286
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=30
+Average loss: 14990.051200
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=50
+Average loss: 15261.785296
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=60
+Average loss: 14889.593052
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=32, epochs=70
+Average loss: 15007.544922
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=10
+Average loss: 15095.400879
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=30
+Average loss: 15172.336914
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=50
+Average loss: 15089.733154
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=60
+Average loss: 15192.252930
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.001, batch_size=64, epochs=70
+Average loss: 14985.487305
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=10
+Average loss: 14975.735953
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=30
+Average loss: 15024.654072
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=50
+Average loss: 14972.626352
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=60
+Average loss: 15009.853065
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=16, epochs=70
+Average loss: 14978.757662
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=10
+Average loss: 15209.125837
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=30
+Average loss: 14918.015904
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=50
+Average loss: 15184.788365
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=60
+Average loss: 14881.481306
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=32, epochs=70
+Average loss: 15080.714983
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=10
+Average loss: 15266.377686
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=30
+Average loss: 15584.916016
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=50
+Average loss: 14541.560547
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=60
+Average loss: 14951.077637
+Training with hidden_dim=512, bottleneck_dim=32, lr=0.0001, batch_size=64, epochs=70
+Average loss: 15359.197021
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=10
+Average loss: 14992.382362
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=30
+Average loss: 14965.470778
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=50
+Average loss: 15033.809570
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=60
+Average loss: 15012.226863
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=16, epochs=70
+Average loss: 14963.148888
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=10
+Average loss: 15053.620117
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=30
+Average loss: 15174.011161
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=50
+Average loss: 15053.202846
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=60
+Average loss: 15103.401367
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=32, epochs=70
+Average loss: 14924.852121
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=10
+Average loss: 14877.978516
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=30
+Average loss: 15128.603027
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=50
+Average loss: 15161.423096
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=60
+Average loss: 14669.350586
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.001, batch_size=64, epochs=70
+Average loss: 14763.644531
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=10
+Average loss: 15049.079102
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=30
+Average loss: 14950.417894
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=50
+Average loss: 14991.354041
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=60
+Average loss: 14926.399264
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=16, epochs=70
+Average loss: 14987.227539
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=10
+Average loss: 14745.701590
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=30
+Average loss: 15134.352260
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=50
+Average loss: 14891.512416
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=60
+Average loss: 15004.680246
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=32, epochs=70
+Average loss: 14989.168248
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=10
+Average loss: 14988.110840
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=30
+Average loss: 14913.232666
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=50
+Average loss: 14873.083252
+Training with hidden_dim=512, bottleneck_dim=64, lr=0.0001, batch_size=64, epochs=60
